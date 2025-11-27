@@ -4,3 +4,6 @@ google-generativeai
 python-dotenv
 streamlit
 tavily-python
+langchain.agents
+agent 
+langchain_core.pydantic_v1
