@@ -14,7 +14,6 @@ An intelligent, personalized, and visually immersive travel companion that harne
 * **Destination Visualizer (Text-to-Image):** Unsure where to go? Describe your dream vacation vibe, and the AI will generate stunning previews of potential destinations.
 * **Landmark Scout (Image-to-Text):** Upload a photo of a monument or location, and the AI will identify it and provide historical context and travel tips.
 * **Budget Estimator:** Get real-time cost estimations for flights, hotels, and activities.
-* **Interactive Chat Interface:** Ask specific travel queries (e.g., "What is the best time to visit Kyoto?") in a chat format.
 * **Responsive Design:** Works smoothly on both desktop and mobile browsers for planning on the go.
 * **Secure API Handling:** Uses Streamlit's secrets management to keep your API keys safe.
 
@@ -42,7 +41,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/SuyashAdagale/TravelMate-AI.git](https://github.com/YourUsername/TravelMate-AI.git)
+    git clone [https://github.com/SuyashAdagale/TravelMate-AI.git](https://github.com/SuyashAdagale/TravelMate-AI.git)
     cd TravelMate-AI
     ```
 
@@ -92,9 +91,9 @@ This application is built to be easily deployed on Streamlit Cloud.
 ## 🗺️ Project Roadmap
 
 - [x] AI Itinerary Generation (Gemini) - **Done!**
-- [ ] used langchain travily websearch
-- [ ] Destination Visualizer (Text-to-Image) - **In Progress**
-- [ ] Landmark Scout (Image-to-Text) - **In Progress**
+- [x] used langchain travily websearch
+- [x] day to day planner 
+- [x] info about transportation
 - [x] Currency Converter & Budget Calculator - **Done**
 
 ## 📄 License
