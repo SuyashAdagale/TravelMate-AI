@@ -4,9 +4,15 @@
 
 An intelligent, personalized, and visually immersive travel companion that harnesses the power of Generative AI. TravelMate AI provides a seamless interface for users to generate custom itineraries, visualize potential destinations, and identify landmarks—all within a clean web interface powered by Streamlit.
 
-✨ [Live Demo](https://your-demo-link.com) | 📸 [Preview](https://your-preview-link.com)
+✨ [Live Demo](https://your-demo-link.com) 
 
----
+| 📸 <img width="1920" height="926" alt="Screenshot 2025-11-27 143251" src="https://github.com/user-attachments/assets/fd6e4821-aeb1-41ec-882b-0f7a4146f198" />
+
+
+
+
+
+
 
 ## 🚀 Key Features
 
